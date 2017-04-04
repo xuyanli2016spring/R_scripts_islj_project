@@ -1,1 +1,1 @@
-# R_scripts_islj_project
+These R scripts are written by Yanli to process the data from islj simulation experiments.
